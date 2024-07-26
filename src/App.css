@@ -36,3 +36,34 @@
     transform: rotate(360deg);
   }
 }
+#input{
+
+  width:25px;
+  
+  padding: 5px;
+  
+  text-align: centre;
+  
+  }
+  
+  h1{
+  
+  margin-left: 70px;
+  
+  margin-top: 100px;
+  
+  }
+  
+  table{
+  
+  border-collapse: collapse;
+  
+  border: 2px solid burlywood;
+  
+  background-color:burlywood;
+  
+  margin-left: 70px;
+  
+  margin-bottom: 40px;
+  
+  }
